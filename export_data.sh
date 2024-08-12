@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Set the path to the Data Loader CLI executable
+# Set the path to the Data Loader CLI executable 
+# testing...
+
 data_loader_path="/path/to/data_loader_cli/bin"
 
 # Set the path to the configuration file
