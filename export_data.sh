@@ -26,5 +26,7 @@ command="java -jar ${data_loader_path}/data-loader.jar config=${config_file_path
 # Run the command and capture the output
 output=$(eval $command)
 
-# Print the output to the console
+# Print the output to the console 
+#test
+
 echo "$output"
