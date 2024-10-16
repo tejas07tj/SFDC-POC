@@ -5,7 +5,7 @@
 #123
 data_loader_path="/path/to/data_loader_cli/bin"
 123
-
+122
 
 # Set the path to the configuration file
 config_file_path="/path/to/config/file"
