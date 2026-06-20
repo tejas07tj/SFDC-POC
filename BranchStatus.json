@@ -1,1 +1,6 @@
-
+{
+  "release_branch": "R26.6.5_FastTrackRel",
+  "freeze": false,
+  "branch_locked": false,
+  "lock_started_at": "2026-06-19T07:01:00Z"
+}
