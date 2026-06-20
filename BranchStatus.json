@@ -1,6 +1,6 @@
 {
-  "release_branch": "R2",
-  "freeze": false,
-  "branch_locked": false,
-  "lock_started_at": "2026-06-20T20:40:38Z"
+  "release_branch": "R24.4.1_FastTrackRel",
+  "freeze": true,
+  "branch_locked": true,
+  "lock_started_at": "2026-06-20T20:51:48Z"
 }
